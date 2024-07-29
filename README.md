@@ -1,6 +1,6 @@
 # Getting Started with my  Fitness-React App
 
-The app is hosted on Netlify <a href="https://jolly-lewin-397b5d.netlify.app" rel="nofollow">here</a>
+The app is hosted on Netlify <a href="https://master--fitness-app-fend.netlify.app/" rel="nofollow">here</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
